@@ -1,5 +1,5 @@
 # cs101-version-control
-## My Learning Goals
-- Learn Python programming
-- Learn Git and GitHub
-- Build a personal website
+Message: Add technology interests
+## Technology Interests
+- Artificial Intelligence
+- Game Development
