@@ -15,6 +15,9 @@ Message: Add student profile
 - Artificial Intelligence
 - Game Development
 
-  ##skill
-  -123
+  ## Skills
+- Problem solving
+- Python basics
+- Teamwork
+
   
