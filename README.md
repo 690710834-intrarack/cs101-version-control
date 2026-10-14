@@ -14,3 +14,7 @@ Message: Add student profile
 ## Technology Interests
 - Artificial Intelligence
 - Game Development
+
+  ##skill
+  -123
+  
