@@ -1,4 +1,6 @@
 # cs101-version-control
-Owner / Repository name *
+# My CS Profile
 
-natpipat intrarack
+## About Me
+- Name: natpipat intrarack
+- Major: Computer Science
