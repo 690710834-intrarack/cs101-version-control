@@ -1,9 +1,9 @@
 # cs101-version-control
-Message: Add student profile
+
 # My CS Profile
 
 ## About Me
-- Name: Somchai
+- Name: natpipat intrarack
 - Major: Computer Science
 
 ## My Learning Goals
